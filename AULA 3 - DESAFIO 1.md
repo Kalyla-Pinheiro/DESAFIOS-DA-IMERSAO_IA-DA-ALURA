@@ -1,4 +1,4 @@
-# 🚀 DESAFIOS DA AULA 02
+# 🚀 DESAFIOS DA AULA 03
 
 ## 🎯 DESAFIO 1
 Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio
